@@ -5,7 +5,11 @@
 
 <h1>Heading#1</h1>
 <h2>Heading#2 added locally</h2>
+<<<<<<< HEAD
 <h3>Heading#3</h3>
+=======
+<h3> added code from another local machine</h3>
+>>>>>>> 5133101f226a968e81f8462ebebf251ba51f5f24
 </body>
 
 </html>
